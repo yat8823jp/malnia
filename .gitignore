@@ -7,3 +7,4 @@ editor-style.css
 dist
 *.map
 .DS_Store
+deploy.php
